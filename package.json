@@ -1,0 +1,19 @@
+{
+  "name": "joshfirefactory",
+  "fullName": "Joshfire Factory Node.js runtime",
+  "version": "0.1.0",
+  "homepage": "http://factory.joshfire.com",
+  "description": "Joshfire Factory Node.js runtime",
+  "maintainers": [
+    {
+      "name": "Joshfire",
+      "email": "contact@joshfire.com",
+      "web": "http://www.joshfire.com" 
+    } 
+  ],
+  "dependencies": {
+    "requirejs":"2.0.1",
+    "request":"2.9.202",
+    "underscore":"1.3.3"
+  }
+}
