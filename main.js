@@ -67,7 +67,8 @@ exports.bootstrap = function(options,callback) {
 
     var sandbox = {
       Joshfire:{},
-      define:requirejs.define
+      define:requirejs.define,
+      console:console
     };
 
     try {
