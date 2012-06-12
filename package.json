@@ -11,6 +11,7 @@
       "web": "http://www.joshfire.com" 
     } 
   ],
+  "main":"./main.js",
   "dependencies": {
     "requirejs":"2.0.1",
     "request":"2.9.202",
