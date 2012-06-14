@@ -1,7 +1,7 @@
 {
   "name": "joshfirefactory",
   "fullName": "Joshfire Factory Node.js runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://factory.joshfire.com",
   "description": "Joshfire Factory Node.js runtime",
   "maintainers": [
@@ -15,6 +15,7 @@
   "dependencies": {
     "requirejs":"2.0.1",
     "request":"2.9.202",
+    "mongodb":"1.0.2",
     "underscore":"1.3.3"
   }
 }
